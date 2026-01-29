@@ -1,0 +1,7 @@
+# GitHub Language Statistics
+# Explicitly identify file types for accurate GitHub language detection
+
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.md linguist-documentation

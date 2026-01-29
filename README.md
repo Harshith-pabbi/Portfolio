@@ -35,6 +35,29 @@ I'm Harshith Pabbisetti, an **AIML Engineer & Full-Stack Developer** from Hydera
 - Jupyter Notebooks
 - Docker & deployment
 
+- ### 📝 Languages Used
+
+This portfolio website is built with three core web technologies:
+
+**HTML** - Semantic markup for page structure and content organization
+- Used for building the semantic HTML5 structure of the portfolio
+- Organized content with proper sections and accessibility
+
+**CSS** - Professional styling and responsive design
+- Custom dark theme with modern color scheme
+- Fully responsive design for mobile, tablet, and desktop
+- Smooth animations and transitions
+- Flexbox-based layout system
+
+**JavaScript** - Dynamic interactivity and user experience
+- Smooth scrolling navigation between sections
+- Interactive mobile menu toggle
+- Animated skill progress bars using Intersection Observer API
+- Scroll-triggered animations for elements
+- Active navigation link highlighting
+- Modern ES6+ syntax
+
+
 ### 🏆 Key Achievements
 
 - 🥇 **Best Project Award** - Helmet Detection System (2024)
